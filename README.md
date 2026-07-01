@@ -1,4 +1,4 @@
-# 📊 Camera Sales Performance Analysis
+#  Camera Sales Performance Analysis
 
 ## 📖 Project Overview
 
@@ -8,13 +8,13 @@ The dashboard provides management with a clear overview of sales performance acr
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 The goal of this project was to analyze camera sales data and build an interactive dashboard that supports data-driven decision-making by monitoring revenue, profit, customer purchasing patterns, and product performance.
 
 ---
 
-## ❓ Business Questions
+##  Business Questions
 
 This project answers the following questions:
 
@@ -29,7 +29,7 @@ This project answers the following questions:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Excel
 - Data Cleaning
@@ -41,7 +41,7 @@ This project answers the following questions:
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 > **Note:** If the image does not appear after committing, verify that the image file is named **dashboard.png** and is in the same folder as the README.
 
@@ -49,7 +49,7 @@ This project answers the following questions:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - The company generated **€102.9 million** in total revenue.
 - Overall profit reached **€21.2 million**.
@@ -60,14 +60,14 @@ This project answers the following questions:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 - **camera-sales-analysis.xlsx** – Contains the cleaned dataset, PivotTables, PivotCharts, KPIs, and interactive dashboard.
 - **dashboard.png** – Screenshot of the interactive dashboard.
 
 ---
 
-## 💼 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
@@ -79,6 +79,6 @@ This project answers the following questions:
 
 ---
 
-## 👩🏽‍💻 About Me
+##  About Me
 
 I'm **Amaka**, a Mathematics graduate building a career in Data Analytics. I enjoy transforming raw data into meaningful insights through Excel dashboards and business analysis. I'm currently expanding my skills in SQL, Power BI, and Python while building practical projects that showcase my growth as an aspiring Data Analyst.
