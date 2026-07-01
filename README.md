@@ -45,7 +45,7 @@ This project answers the following questions:
 
 > **Note:** If the image does not appear after committing, verify that the image file is named **dashboard.png** and is in the same folder as the README.
 
-![Camera Sales Dashboard](dashboard.png)
+![Camera Sales Dashboard](./dashboard.png)
 
 ---
 
